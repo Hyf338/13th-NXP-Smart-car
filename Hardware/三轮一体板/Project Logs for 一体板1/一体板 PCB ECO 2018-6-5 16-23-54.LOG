@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=5V Pin=6-1
+Change Component Comment : Designator=F1 Old Comment=0R New Comment=350mA
+Added Component: Designator=RP1(ÅÅ×è£¨4Î»£©)
+Added Pin To Net: NetName=YUN_5V Pin=6-1
+Added Pin To Net: NetName=SGND Pin=RP1-1
+Added Pin To Net: NetName=TPM2_CH1 Pin=RP1-2
+Added Pin To Net: NetName=SGND Pin=RP1-3
+Added Pin To Net: NetName=TPM2_CH2 Pin=RP1-4
+Added Pin To Net: NetName=SGND Pin=RP1-5
+Added Pin To Net: NetName=TPM2_CH3 Pin=RP1-6
+Added Pin To Net: NetName=SGND Pin=RP1-7
+Added Pin To Net: NetName=TPM2_CH4 Pin=RP1-8
+Added Member To Class: ClassName=Ò»Ìå°å1 Member=Component RP1 10K

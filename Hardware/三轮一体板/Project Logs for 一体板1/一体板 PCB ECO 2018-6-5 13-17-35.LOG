@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=PE1-2
+Removed Pin From Net: NetName=VDD Pin=R1-2
+Removed Member From Class: ClassName=一体板1 Member=PE1
+Removed Member From Class: ClassName=一体板1 Member=R1
+Change Component Comment : Designator=F1 Old Comment=0R New Comment=350mA
+Added Room: Name=一体板1

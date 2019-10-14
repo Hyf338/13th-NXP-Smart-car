@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=C5-1
+Removed Pin From Net: NetName=S_GND Pin=C5-2
+Removed Pin From Net: NetName=S_GND Pin=C6-2
+Removed Pin From Net: NetName=S_GND Pin=C7-2
+Removed Pin From Net: NetName=VCC7.2V Pin=P5-1
+Added Pin To Net: NetName=A_GND Pin=C5-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=S_GND Pin=C5-2
+Added Pin To Net: NetName=5V_ELSE Pin=C6-1
+Added Pin To Net: NetName=NetC5_2 Pin=C6-2
+Added Pin To Net: NetName=S_GND Pin=C6-2
+Added Pin To Net: NetName=5V_ELSE Pin=C7-1
+Added Pin To Net: NetName=NetC5_2 Pin=C7-2
+Added Pin To Net: NetName=S_GND Pin=C7-2
+Added Pin To Net: NetName=L_BHS Pin=P5-1
+Added Pin To Net: NetName=VCC7.2V Pin=P5-1

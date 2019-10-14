@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=B4 Pin=128-24
+Change Component Designator: OldDesignator= NewDesignator=ADC4
+Change Component Designator: OldDesignator= NewDesignator=R36
+Change Component Designator: OldDesignator= NewDesignator=R37
+Change Component Designator: OldDesignator=10k NewDesignator=R38
+Change Component Designator: OldDesignator=128 NewDesignator=Q_KEAP80SYSVK
+Added Pin To Net: NetName=B4 Pin=Q_KEAP80SYSVK-15
+Added Member To Class: ClassName=SMT2 Member=Component R36 10K
+Added Member To Class: ClassName=SMT2 Member=Component R37 10K

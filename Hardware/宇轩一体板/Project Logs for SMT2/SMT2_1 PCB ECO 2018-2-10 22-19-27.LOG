@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=5V_ELSE Pin=C4-1
+Removed Pin From Net: NetName=S_GND Pin=C4-2
+Removed Pin From Net: NetName=S_GND Pin=C5-2
+Removed Pin From Net: NetName=5V_ELSE Pin=C7-1
+Removed Pin From Net: NetName=S_GND Pin=C7-2
+Removed Pin From Net: NetName=S_GND Pin=C8-2
+Removed Pin From Net: NetName=S_GND Pin=U2-1
+Removed Pin From Net: NetName=S_GND Pin=U2-2
+Removed Pin From Net: NetName=5V_ELSE Pin=U2-3
+Removed Pin From Net: NetName=5V_ELSE Pin=U2-4
+Removed Member From Class: ClassName=SMT2 Member=C4
+Removed Member From Class: ClassName=SMT2 Member=C5
+Removed Member From Class: ClassName=SMT2 Member=C7
+Removed Member From Class: ClassName=SMT2 Member=C8
+Removed Member From Class: ClassName=SMT2 Member=U2
+Added Member To Class: ClassName=SMT2 Member=Component ADC4
+Added Member To Class: ClassName=SMT2 Member=Component R36 10K
+Added Member To Class: ClassName=SMT2 Member=Component R37 10K
+Added Member To Class: ClassName=SMT2 Member=Component R38 10K

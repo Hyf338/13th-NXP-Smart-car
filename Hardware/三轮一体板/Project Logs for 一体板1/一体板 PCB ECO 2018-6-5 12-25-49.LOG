@@ -1,0 +1,159 @@
+Removed Pin From Net: NetName=ADC0_SE8 Pin=ad1-1
+Removed Pin From Net: NetName=ADC0_SE9 Pin=ad1-2
+Removed Pin From Net: NetName=ADC0_SE12 Pin=ad1-3
+Removed Pin From Net: NetName=ADC0_SE13 Pin=ad1-4
+Removed Pin From Net: NetName=ADC0_SE14 Pin=ad1-5
+Removed Pin From Net: NetName=ADC0_SE15 Pin=ad1-6
+Change Component DesignItemId : Designator=U7 Old DesignItemId= New DesignItemId=74L
+Change Component DesignItemId : Designator=P1 Old DesignItemId= New DesignItemId=dianchi
+Change Component DesignItemId : Designator=U4 Old DesignItemId= New DesignItemId=H
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=H
+Change Component DesignItemId : Designator=D7 Old DesignItemId= New DesignItemId=IN5819
+Change Component DesignItemId : Designator=D8 Old DesignItemId= New DesignItemId=IN5819
+Change Component DesignItemId : Designator=D10 Old DesignItemId= New DesignItemId=IN5819
+Change Component DesignItemId : Designator=D11 Old DesignItemId= New DesignItemId=IN5819
+Change Component DesignItemId : Designator=D16 Old DesignItemId= New DesignItemId=IN5819
+Change Component DesignItemId : Designator=D17 Old DesignItemId= New DesignItemId=IN5819
+Change Component DesignItemId : Designator=D18 Old DesignItemId= New DesignItemId=IN5819
+Change Component DesignItemId : Designator=D19 Old DesignItemId= New DesignItemId=IN5819
+Change Component DesignItemId : Designator=D1 Old DesignItemId= New DesignItemId=IN
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=IN
+Change Component DesignItemId : Designator=D6 Old DesignItemId= New DesignItemId=IN
+Change Component DesignItemId : Designator=KEA1 Old DesignItemId= New DesignItemId=kea128芯片
+Change Component DesignItemId : Designator=U6 Old DesignItemId= New DesignItemId=MC3
+Change Component DesignItemId : Designator=5 Old DesignItemId= New DesignItemId=PNP
+Change Component DesignItemId : Designator=R9 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R11 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R12 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R13 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R23 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R24 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R25 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=D3 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D4 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D5 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D9 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D12 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D13 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D14 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D15 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D20 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D21 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D22 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D23 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=K2 Old DesignItemId= New DesignItemId=五轴按键（大）
+Change Component DesignItemId : Designator=P2 Old DesignItemId= New DesignItemId=编码器
+Change Component DesignItemId : Designator=P4 Old DesignItemId= New DesignItemId=编码器
+Change Component DesignItemId : Designator=6 Old DesignItemId=B New DesignItemId=Buzz
+Change Component DesignItemId : Designator=H2 Old DesignItemId=Bluetoo New DesignItemId=Bluetooth
+Change Component DesignItemId : Designator=C9 Old DesignItemId=C New DesignItemId=CAP
+Change Component DesignItemId : Designator=C13 Old DesignItemId=C New DesignItemId=CAP
+Change Component DesignItemId : Designator=RP1 Old DesignItemId=Heade New DesignItemId=Header 4X2
+Change Component DesignItemId : Designator=PE1 Old DesignItemId=L New DesignItemId=LED
+Change Component DesignItemId : Designator=T1 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T2 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T3 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T4 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T5 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T6 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T7 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T8 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=H1 Old DesignItemId=OL New DesignItemId=OLED
+Change Component DesignItemId : Designator=P5 Old DesignItemId=POWER_P New DesignItemId=POWER_PIN
+Change Component DesignItemId : Designator=P6 Old DesignItemId=POWER_P New DesignItemId=POWER_PIN
+Change Component DesignItemId : Designator=P7 Old DesignItemId=POWER_P New DesignItemId=POWER_PIN
+Change Component DesignItemId : Designator=P8 Old DesignItemId=POWER_P New DesignItemId=POWER_PIN
+Change Component DesignItemId : Designator=R1 Old DesignItemId=R New DesignItemId=RES
+Change Component DesignItemId : Designator=R5 Old DesignItemId=R New DesignItemId=RES
+Change Component DesignItemId : Designator=R7 Old DesignItemId=R New DesignItemId=RES
+Change Component DesignItemId : Designator=XTAL1 Old DesignItemId=XT New DesignItemId=XTAL
+Change Component DesignItemId : Designator=L3 Old DesignItemId=电感 220uh New DesignItemId=电
+Change Component Description : Designator=L3 Old Description= New Description=7*7*4
+Change Component Description : Designator=K1 Old Description= New Description=AC 250V/6A
+Change Component Description : Designator=K3 Old Description= New Description=AC 250V/6A
+Change Component Description : Designator=T1 Old Description= New Description=IRLR7843
+Change Component Description : Designator=T2 Old Description= New Description=IRLR7843
+Change Component Description : Designator=T3 Old Description= New Description=IRLR7843
+Change Component Description : Designator=T4 Old Description= New Description=IRLR7843
+Change Component Description : Designator=T5 Old Description= New Description=IRLR7843
+Change Component Description : Designator=T6 Old Description= New Description=IRLR7843
+Change Component Description : Designator=T7 Old Description= New Description=IRLR7843
+Change Component Description : Designator=T8 Old Description= New Description=IRLR7843
+Change Component Description : Designator=LED2 Old Description= New Description=发光二极管
+Change Component Description : Designator=LED12 Old Description= New Description=发光二极管
+Change Component Description : Designator=LED\ Old Description= New Description=发光二极管
+Change Component Description : Designator=S1 Old Description= New Description=拨码开关（4位）
+Change Component Description : Designator=C1 Old Description= New Description=无极电容
+Change Component Description : Designator=C3 Old Description= New Description=无极电容
+Change Component Description : Designator=C4 Old Description= New Description=无极电容
+Change Component Description : Designator=C6 Old Description= New Description=无极电容
+Change Component Description : Designator=C7 Old Description= New Description=无极电容
+Change Component Description : Designator=C8 Old Description= New Description=无极电容
+Change Component Description : Designator=C10 Old Description= New Description=无极电容
+Change Component Description : Designator=C11 Old Description= New Description=无极电容
+Change Component Description : Designator=C12 Old Description= New Description=无极电容
+Change Component Description : Designator=C14 Old Description= New Description=无极电容
+Change Component Description : Designator=C15 Old Description= New Description=无极电容
+Change Component Description : Designator=C16 Old Description= New Description=无极电容
+Change Component Description : Designator=C17 Old Description= New Description=无极电容
+Change Component Description : Designator=C18 Old Description= New Description=无极电容
+Change Component Description : Designator=C19 Old Description= New Description=无极电容
+Change Component Description : Designator=C20 Old Description= New Description=无极电容
+Change Component Description : Designator=C21 Old Description= New Description=无极电容
+Change Component Description : Designator=U1 Old Description= New Description=稳压元件（5V）
+Change Component Description : Designator=U2 Old Description= New Description=稳压元件（5V）
+Change Component Description : Designator=U3 Old Description= New Description=稳压元件（5V）
+Change Component Description : Designator=K4 Old Description= New Description=贴片按键
+Change Component Description : Designator=1 Old Description= New Description=通用有极电容
+Change Component Description : Designator=3 Old Description= New Description=通用有极电容
+Change Component Description : Designator=7 Old Description= New Description=通用有极电容
+Change Component Description : Designator=9 Old Description= New Description=通用有极电容
+Change Component Description : Designator=11 Old Description= New Description=通用有极电容
+Change Component Description : Designator=13 Old Description= New Description=通用有极电容
+Change Component Description : Designator=C2 Old Description= New Description=通用有极电容
+Change Component Description : Designator=A-G1 Old Description= New Description=通用电阻
+Change Component Description : Designator=D-G1 Old Description= New Description=通用电阻
+Change Component Description : Designator=R2 Old Description= New Description=通用电阻
+Change Component Description : Designator=R3 Old Description= New Description=通用电阻
+Change Component Description : Designator=R6 Old Description= New Description=通用电阻
+Change Component Description : Designator=R8 Old Description= New Description=通用电阻
+Change Component Description : Designator=R10 Old Description= New Description=通用电阻
+Change Component Description : Designator=R14 Old Description= New Description=通用电阻
+Change Component Description : Designator=R15 Old Description= New Description=通用电阻
+Change Component Description : Designator=R16 Old Description= New Description=通用电阻
+Change Component Description : Designator=R17 Old Description= New Description=通用电阻
+Change Component Description : Designator=R18 Old Description= New Description=通用电阻
+Change Component Description : Designator=R19 Old Description= New Description=通用电阻
+Change Component Description : Designator=R20 Old Description= New Description=通用电阻
+Change Component Description : Designator=R21 Old Description= New Description=通用电阻
+Change Component Description : Designator=R22 Old Description= New Description=通用电阻
+Change Component Description : Designator=R26 Old Description= New Description=通用电阻
+Change Component Description : Designator=R27 Old Description= New Description=通用电阻
+Change Component Description : Designator=R28 Old Description= New Description=通用电阻
+Change Component Description : Designator=R29 Old Description= New Description=通用电阻
+Change Component Description : Designator=R30 Old Description= New Description=通用电阻
+Change Component Description : Designator=R31 Old Description= New Description=通用电阻
+Change Component Description : Designator=R32 Old Description= New Description=通用电阻
+Change Component Description : Designator=R33 Old Description= New Description=通用电阻
+Change Component Description : Designator=R34 Old Description= New Description=通用电阻
+Change Component Description : Designator=2 Old Description=Ca New Description=Capacitor
+Change Component Description : Designator=4 Old Description=Ca New Description=Capacitor
+Change Component Description : Designator=8 Old Description=Ca New Description=Capacitor
+Change Component Description : Designator=10 Old Description=Ca New Description=Capacitor
+Change Component Description : Designator=12 Old Description=Ca New Description=Capacitor
+Change Component Description : Designator=14 Old Description=Ca New Description=Capacitor
+Change Component Description : Designator=C22 Old Description=ED8: New Description=ED8:470UF  ED6.3:100UF
+Change Component Description : Designator=C74 Old Description=ED8: New Description=ED8:470UF  ED6.3:100UF
+Change Component Description : Designator=F1 Old Description=Fu New Description=Fuse
+Change Component Description : Designator=RP1 Old Description=Heade New Description=Header, 4-Pin, Dual row
+Change Component Description : Designator=L1 Old Description=Induct New Description=Inductor
+Change Component Description : Designator=L2 Old Description=Induct New Description=Inductor
+Change Component Description : Designator=C5 Old Description=Polarized Capacitor (Surface New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=R4 Old Description=R New Description=Resistor
+Change Component Description : Designator=R54 Old Description=R New Description=Resistor
+Added Pin To Net: NetName=ADC0_SE9 Pin=ad1-1
+Added Pin To Net: NetName=ADC0_SE8 Pin=ad1-2
+Added Pin To Net: NetName=ADC0_SE15 Pin=ad1-3
+Added Pin To Net: NetName=ADC0_SE14 Pin=ad1-4
+Added Pin To Net: NetName=ADC0_SE13 Pin=ad1-5
+Added Pin To Net: NetName=ADC0_SE12 Pin=ad1-6

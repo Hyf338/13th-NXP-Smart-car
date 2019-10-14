@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator= NewDesignator=JMU?
+Added Component: Designator=K?(钮子开关（大）)
+Added Member To Class: ClassName=SMT2 Member=Component JMU? LOGO(JMU)
+Added Member To Class: ClassName=SMT2 Member=Component K? KEY

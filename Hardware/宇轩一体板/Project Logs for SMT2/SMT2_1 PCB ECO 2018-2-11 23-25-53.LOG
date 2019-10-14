@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=R_AHS Pin=P8-1
+Removed Pin From Net: NetName=R_BHS Pin=P9-1
+Removed Member From Class: ClassName=SMT2 Member=P8
+Removed Member From Class: ClassName=SMT2 Member=P9
+Added Component: Designator=DJ2(接线端子)
+Added Pin To Net: NetName=R_BHS Pin=DJ2-1
+Added Pin To Net: NetName=R_AHS Pin=DJ2-2
+Added Member To Class: ClassName=SMT2 Member=Component DJ2 接线端子

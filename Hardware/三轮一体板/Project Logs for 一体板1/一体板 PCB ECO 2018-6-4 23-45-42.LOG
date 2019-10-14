@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TPM2_CH1 Pin=RP1-2
+Removed Pin From Net: NetName=TPM2_CH2 Pin=RP1-4
+Removed Pin From Net: NetName=TPM2_CH3 Pin=RP1-6
+Removed Pin From Net: NetName=TPM2_CH4 Pin=RP1-8
+Added Pin To Net: NetName=TPM2_CH4 Pin=RP1-2
+Added Pin To Net: NetName=TPM2_CH3 Pin=RP1-4
+Added Pin To Net: NetName=TPM2_CH2 Pin=RP1-6
+Added Pin To Net: NetName=TPM2_CH1 Pin=RP1-8

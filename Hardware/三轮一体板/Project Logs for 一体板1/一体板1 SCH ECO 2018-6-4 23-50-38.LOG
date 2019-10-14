@@ -1,0 +1,4 @@
+Remove Pin=RP1-2 From Net=TPM2_CH1
+Remove Pin=RP1-4 From Net=TPM2_CH2
+Remove Pin=RP1-6 From Net=TPM2_CH3
+Remove Pin=RP1-8 From Net=TPM2_CH4

@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=B1 Pin=-21
+Removed Pin From Net: NetName=B2 Pin=-22
+Removed Pin From Net: NetName=B3 Pin=-23
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Hea New DesignItemId=He
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Hea New DesignItemId=He
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Hea New DesignItemId=He
+Change Component DesignItemId : Designator=T2 Old DesignItemId=N_MOS(IRLR7843) New DesignItemId=N_MOS(IR
+Change Component DesignItemId : Designator=T3 Old DesignItemId=N_MOS(IRLR7843) New DesignItemId=N_MOS(IR
+Change Component DesignItemId : Designator=T4 Old DesignItemId=N_MOS(IRLR7843) New DesignItemId=N_MOS(IR
+Change Component DesignItemId : Designator=T5 Old DesignItemId=N_MOS(IRLR7843) New DesignItemId=N_MOS(IR
+Change Component DesignItemId : Designator=T6 Old DesignItemId=N_MOS(IRLR7843) New DesignItemId=N_MOS(IR
+Change Component DesignItemId : Designator=T7 Old DesignItemId=N_MOS(IRLR7843) New DesignItemId=N_MOS(IR
+Change Component DesignItemId : Designator=T8 Old DesignItemId=N_MOS(IRLR7843) New DesignItemId=N_MOS(IR
+Change Component DesignItemId : Designator=T9 Old DesignItemId=N_MOS(IRLR7843) New DesignItemId=N_MOS(IR
+Change Component Designator: OldDesignator= NewDesignator=ADC4
+Change Component Designator: OldDesignator= NewDesignator=Q_KEAP80SYSVK
+Change Component Designator: OldDesignator=LED NewDesignator=LED1
+Change Component Description : Designator=U1 Old Description=? New Description=稳压元件（5V）
+Change Component Description : Designator=U3 Old Description=? New Description=稳压元件（5V）
+Change Component Description : Designator=P1 Old Description=Header, 4-Pi New Description=Header, 4-Pin
+Change Component Description : Designator=P2 Old Description=Header, 4-Pi New Description=Header, 4-Pin
+Change Component Description : Designator=P3 Old Description=Header, 4-Pi New Description=Header, 4-Pin
+Change Component Description : Designator=T2 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T3 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T4 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T5 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T6 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T7 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T8 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T9 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=C15 Old Description=Polarized Capacitor (Radia New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=U2 Old Description=稳? New Description=稳压元件（3.3V）
+Change Component Description : Designator=R35 Old Description=通用? New Description=通用电阻
+Change Component Description : Designator=R36 Old Description=通用? New Description=通用电阻
+Change Component Description : Designator=R37 Old Description=通用? New Description=通用电阻
+Change Component Description : Designator=R38 Old Description=通用? New Description=通用电阻
+Added Pin To Net: NetName=B3 Pin=Q_KEAP80SYSVK-3
+Added Pin To Net: NetName=B1 Pin=Q_KEAP80SYSVK-4
+Added Pin To Net: NetName=B2 Pin=Q_KEAP80SYSVK-7
+Added Member To Class: ClassName=SMT2 Member=Component P6 POWER_PIN
+Added Member To Class: ClassName=SMT2 Member=Component P7 POWER_PIN
+Added Member To Class: ClassName=SMT2 Member=Component Q_KEAP80SYSVK LQ_KEAP80SYSVK
+Added Member To Class: ClassName=SMT2 Member=Component U6 74LS244

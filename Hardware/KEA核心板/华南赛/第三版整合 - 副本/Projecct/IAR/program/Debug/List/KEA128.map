@@ -1,0 +1,660 @@
+###############################################################################
+#
+# IAR ELF Linker V7.80.3.12102/W32 for ARM                23/Jul/2018  18:01:10
+# Copyright 2007-2016 IAR Systems AB.
+#
+#    Output file  =  
+#        C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Exe\KEA128.out
+#    Map file     =  
+#        C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\List\KEA128.map
+#    Command line =  
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\common.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\Debug.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\Dir_Gyroscope.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\font.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\fuzzy.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\Init.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\isr.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_adc.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_flash.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_ftm.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_gpio.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_i2c.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_irq.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_kbi.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_pit.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_port.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_spi.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_systick.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\KEA128_uart.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\LQ_OLED.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\main.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\misc.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\SEEKFREE_18TFT.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\SEEKFREE_FUN.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\SEEKFREE_IIC.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\SEEKFREE_L3G4200D.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\SEEKFREE_MMA8451.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\SEEKFREE_MPU6050.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\SEEKFREE_TSL1401.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\speed.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\startup_SKEAZ1284.o"
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Obj\system_SKEAZ1284.o" -o
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\Exe\KEA128.out" --map
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\Debug\List\KEA128.map" --config
+#        "C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 -
+#        副本\Projecct\IAR\program\KEA128.icf" --semihosting --entry
+#        __iar_program_start --vfe
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__SystemLibrary = DLib
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at 0x00000000 { ro section .intvec };
+"P2":  place in [from 0x00000000 to 0x000003ff] |
+                [from 0x00000410 to 0x0001ffff] { ro };
+"P3":  place in [from 0x1ffff000 to 0x20002fff] { rw, block CSTACK, block HEAP };
+initialize by copy { rw };
+
+  Section             Kind        Address    Size  Object
+  -------             ----        -------    ----  ------
+"A0":                                        0xd0
+  .intvec             ro code  0x00000000    0xd0  startup_SKEAZ1284.o [1]
+                             - 0x000000d0    0xd0
+
+"P2", part 1 of 2:                           0x28
+  .rodata             const    0x000000d0     0x0  zero_init3.o [5]
+  .rodata             const    0x000000d0     0x0  copy_init3.o [5]
+  Initializer bytes   const    0x000000d0    0x28  <for P3 s0>
+                             - 0x000000f8    0x28
+
+"P2", part 2 of 2:                         0x6114
+  .text               ro code  0x00000410   0xe20  isr.o [1]
+  .text               ro code  0x00001230   0x188  KEA128_gpio.o [1]
+  .text               ro code  0x000013b8   0x254  speed.o [1]
+  .text               ro code  0x0000160c    0x26  FltCmpLe.o [4]
+  .rodata             const    0x00001632     0x2  Init.o [1]
+  .text               ro code  0x00001634    0x28  FltCmpGe.o [4]
+  .text               ro code  0x0000165c   0x3f0  Init.o [1]
+  .text               ro code  0x00001a4c    0x34  I32ToDbl.o [4]
+  .text               ro code  0x00001a80   0x880  powl.o [4]
+  .text               ro code  0x00002300    0xc2  DblDiv.o [4]
+  .text               ro code  0x000023c2    0x62  DblToFlt.o [4]
+  .text               ro code  0x00002424    0x32  FltToDbl.o [4]
+  .text               ro code  0x00002456   0x184  DblMul.o [4]
+  .text               ro code  0x000025da   0x1b4  DblAddSub.o [4]
+  .rodata             const    0x0000278e     0x2  Init.o [1]
+  .text               ro code  0x00002790    0x36  I32ToFlt.o [4]
+  .text               ro code  0x000027c6   0x120  FltAddSub.o [4]
+  .text               ro code  0x000028e6     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000028e8   0x61c  fuzzy.o [1]
+  .text               ro code  0x00002f04    0xaa  FltDiv.o [4]
+  .text               ro code  0x00002fae    0xb0  FltMul.o [4]
+  .text               ro code  0x0000305e     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00003060    0x3a  FltToS32.o [4]
+  .text               ro code  0x0000309a     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x0000309c   0x440  KEA128_ftm.o [1]
+  .text               ro code  0x000034dc    0xe0  I32DivModFast.o [5]
+  .text               ro code  0x000035bc   0x6a4  LQ_OLED.o [1]
+  .text               ro code  0x00003c60    0x6c  KEA128_adc.o [1]
+  .text               ro code  0x00003ccc    0x58  KEA128_port.o [1]
+  .text               ro code  0x00003d24    0x74  KEA128_pit.o [1]
+  .text               ro code  0x00003d98   0x1b4  KEA128_uart.o [1]
+  .text               ro code  0x00003f4c    0x34  ABImemset.o [5]
+  .text               ro code  0x00003f80    0x84  xdint.o [4]
+  .text               ro code  0x00004004    0x24  DblCmpEq.o [4]
+  .text               ro code  0x00004028    0x10  errno.o [3]
+  .text               ro code  0x00004038    0x32  DblCmpGe.o [4]
+  .text               ro code  0x0000406a    0x32  DblCmpLe.o [4]
+  .text               ro code  0x0000409c    0x4e  DblToI32.o [4]
+  .text               ro code  0x000040ea     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000040ec    0xa4  xlog.o [4]
+  .text               ro code  0x00004190   0x2f8  xexp.o [4]
+  .text               ro code  0x00004488    0x34  ABImemcpy.o [5]
+  .text               ro code  0x000044bc     0x2  IntDivZer.o [5]
+  .text               ro code  0x000044be     0x2  xtls.o [3]
+  .text               ro code  0x000044c0    0x80  xdscale.o [4]
+  .text               ro code  0x00004540   0x8ac  Debug.o [1]
+  .text               ro code  0x00004dec    0x50  KEA128_systick.o [1]
+  .text               ro code  0x00004e3c   0x648  main.o [1]
+  .text               ro code  0x00005484    0xcc  common.o [1]
+  .text               ro code  0x00005550   0x150  KEA128_flash.o [1]
+  .rodata             const    0x000056a0   0x5f0  LQ_OLED.o [1]
+  .rodata             const    0x00005c90   0x460  LQ_OLED.o [1]
+  .rodata             const    0x000060f0    0xc4  fuzzy.o [1]
+  .text               ro code  0x000061b4    0x80  system_SKEAZ1284.o [1]
+  .rodata             const    0x00006234    0x54  LQ_OLED.o [1]
+  .text               ro code  0x00006288    0x3c  zero_init3.o [5]
+  .text               ro code  0x000062c4    0x30  copy_init3.o [5]
+  .text               ro code  0x000062f4    0x28  data_init.o [5]
+  .iar.init_table     const    0x0000631c    0x24  - Linker created -
+  .rodata             const    0x00006340    0x1c  fuzzy.o [1]
+  .text               ro code  0x0000635c    0x1a  cmain.o [5]
+  .text               ro code  0x00006376     0x4  low_level_init.o [3]
+  .text               ro code  0x0000637a     0x8  exit.o [3]
+  .text               ro code  0x00006382     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006384     0xa  cexit.o [5]
+  .text               ro code  0x0000638e     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006390    0x14  exit.o [6]
+  .rodata             const    0x000063a4    0x18  common.o [1]
+  .rodata             const    0x000063bc    0x10  fuzzy.o [1]
+  .rodata             const    0x000063cc    0x10  fuzzy.o [1]
+  .rodata             const    0x000063dc    0x10  main.o [1]
+  .text               ro code  0x000063ec    0x10  startup_SKEAZ1284.o [1]
+  .rodata             const    0x000063fc     0xc  Debug.o [1]
+  .rodata             const    0x00006408     0xc  Debug.o [1]
+  .rodata             const    0x00006414     0xc  KEA128_ftm.o [1]
+  .rodata             const    0x00006420     0xc  KEA128_gpio.o [1]
+  .text               ro code  0x0000642c     0xc  cstartup_M.o [5]
+  .rodata             const    0x00006438     0x8  Debug.o [1]
+  .rodata             const    0x00006440     0x8  Debug.o [1]
+  .rodata             const    0x00006448     0x8  Debug.o [1]
+  .rodata             const    0x00006450     0x8  Debug.o [1]
+  .rodata             const    0x00006458     0x8  Debug.o [1]
+  .rodata             const    0x00006460     0x8  Debug.o [1]
+  .rodata             const    0x00006468     0x8  Debug.o [1]
+  .rodata             const    0x00006470     0x8  Debug.o [1]
+  .rodata             const    0x00006478     0x8  Debug.o [1]
+  .rodata             const    0x00006480     0x8  Debug.o [1]
+  .rodata             const    0x00006488     0x8  Debug.o [1]
+  .rodata             const    0x00006490     0x8  Debug.o [1]
+  .rodata             const    0x00006498     0x8  Debug.o [1]
+  .rodata             const    0x000064a0     0x8  Debug.o [1]
+  .rodata             const    0x000064a8     0x8  Debug.o [1]
+  .rodata             const    0x000064b0     0x8  Debug.o [1]
+  .rodata             const    0x000064b8     0x8  main.o [1]
+  .rodata             const    0x000064c0     0x8  main.o [1]
+  .rodata             const    0x000064c8     0x8  main.o [1]
+  .rodata             const    0x000064d0     0x8  main.o [1]
+  .rodata             const    0x000064d8     0x8  main.o [1]
+  .rodata             const    0x000064e0     0x8  main.o [1]
+  .text               ro code  0x000064e8     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064ea     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064ec     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064ee     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064f0     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064f2     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064f4     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064f6     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064f8     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064fa     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064fc     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x000064fe     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006500     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006502     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006504     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006506     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006508     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x0000650a     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x0000650c     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x0000650e     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006510     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006512     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006514     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006516     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006518     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x0000651a     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x0000651c     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x0000651e     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006520     0x2  startup_SKEAZ1284.o [1]
+  .text               ro code  0x00006522     0x2  startup_SKEAZ1284.o [1]
+                             - 0x00006524  0x6114
+
+"P3", part 1 of 3:                           0x28
+  P3 s0                        0x1ffff000    0x28  <Init block>
+    .data             inited   0x1ffff000    0x10  KEA128_flash.o [1]
+    .data             inited   0x1ffff010     0xc  KEA128_uart.o [1]
+    .data             inited   0x1ffff01c     0x4  isr.o [1]
+    __DLIB_PERTHREAD  inited   0x1ffff020     0x4  errno.o [3]
+    .data             inited   0x1ffff024     0x1  Debug.o [1]
+    .data             inited   0x1ffff025     0x1  isr.o [1]
+    .data             inited   0x1ffff026     0x1  isr.o [1]
+                             - 0x1ffff028    0x28
+
+"P3", part 2 of 3:                           0xd8
+  .bss                zero     0x1ffff028    0x20  main.o [1]
+  .bss                zero     0x1ffff048    0x20  main.o [1]
+  .bss                zero     0x1ffff068    0x14  isr.o [1]
+  .bss                zero     0x1ffff07c     0x8  KEA128_ftm.o [1]
+  .bss                zero     0x1ffff084     0x8  main.o [1]
+  .bss                zero     0x1ffff08c     0x4  common.o [1]
+  .bss                zero     0x1ffff090     0x4  common.o [1]
+  .bss                zero     0x1ffff094     0x4  common.o [1]
+  .bss                zero     0x1ffff098     0x4  common.o [1]
+  .bss                zero     0x1ffff09c     0x4  isr.o [1]
+  .bss                zero     0x1ffff0a0     0x4  isr.o [1]
+  .bss                zero     0x1ffff0a4     0x4  isr.o [1]
+  .bss                zero     0x1ffff0a8     0x4  isr.o [1]
+  .bss                zero     0x1ffff0ac     0x4  isr.o [1]
+  .bss                zero     0x1ffff0b0     0x4  KEA128_flash.o [1]
+  .bss                zero     0x1ffff0b4     0x4  main.o [1]
+  .bss                zero     0x1ffff0b8     0x4  speed.o [1]
+  .bss                zero     0x1ffff0bc     0x4  speed.o [1]
+  .bss                zero     0x1ffff0c0     0x2  isr.o [1]
+  .bss                zero     0x1ffff0c2     0x2  isr.o [1]
+  .bss                zero     0x1ffff0c4     0x2  isr.o [1]
+  .bss                zero     0x1ffff0c6     0x2  isr.o [1]
+  .bss                zero     0x1ffff0c8     0x2  isr.o [1]
+  .bss                zero     0x1ffff0ca     0x2  main.o [1]
+  .bss                zero     0x1ffff0cc     0x2  speed.o [1]
+  .bss                zero     0x1ffff0ce     0x2  speed.o [1]
+  .bss                zero     0x1ffff0d0     0x2  speed.o [1]
+  .bss                zero     0x1ffff0d2     0x2  speed.o [1]
+  .bss                zero     0x1ffff0d4     0x2  speed.o [1]
+  .bss                zero     0x1ffff0d6     0x2  speed.o [1]
+  .bss                zero     0x1ffff0d8     0x2  speed.o [1]
+  .bss                zero     0x1ffff0da     0x2  speed.o [1]
+  .bss                zero     0x1ffff0dc     0x2  speed.o [1]
+  .bss                zero     0x1ffff0de     0x2  speed.o [1]
+  .bss                zero     0x1ffff0e0     0x2  speed.o [1]
+  .bss                zero     0x1ffff0e2     0x1  Debug.o [1]
+  .bss                zero     0x1ffff0e3     0x1  Debug.o [1]
+  .bss                zero     0x1ffff0e4     0x1  Init.o [1]
+  .bss                zero     0x1ffff0e5     0x1  Init.o [1]
+  .bss                zero     0x1ffff0e6     0x1  Init.o [1]
+  .bss                zero     0x1ffff0e7     0x1  Init.o [1]
+  .bss                zero     0x1ffff0e8     0x1  Init.o [1]
+  .bss                zero     0x1ffff0e9     0x1  isr.o [1]
+  .bss                zero     0x1ffff0ea     0x1  isr.o [1]
+  .bss                zero     0x1ffff0eb     0x1  isr.o [1]
+  .bss                zero     0x1ffff0ec     0x1  isr.o [1]
+  .bss                zero     0x1ffff0ed     0x1  isr.o [1]
+  .bss                zero     0x1ffff0ee     0x1  isr.o [1]
+  .bss                zero     0x1ffff0ef     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f0     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f1     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f2     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f3     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f4     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f5     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f6     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f7     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f8     0x1  isr.o [1]
+  .bss                zero     0x1ffff0f9     0x1  isr.o [1]
+  .bss                zero     0x1ffff0fa     0x1  main.o [1]
+  .bss                zero     0x1ffff0fb     0x1  main.o [1]
+  .bss                zero     0x1ffff0fc     0x1  main.o [1]
+  .bss                zero     0x1ffff0fd     0x1  main.o [1]
+  .bss                zero     0x1ffff0fe     0x1  speed.o [1]
+  .bss                zero     0x1ffff0ff     0x1  speed.o [1]
+                             - 0x1ffff100    0xd8
+
+"P3", part 3 of 3:                          0x400
+  CSTACK                       0x1ffff100   0x400  <Block>
+    CSTACK            uninit   0x1ffff100   0x400  <Block tail>
+                             - 0x1ffff500   0x400
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address     Size
+          -------     ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0xd8:
+          0x1ffff028  0xd8
+
+Copy (__iar_copy_init3)
+    1 source range, total size 0x28 (102% of destination):
+          0x000000d0  0x28
+    1 destination range, total size 0x27:
+          0x1ffff000  0x27
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module               ro code  ro data  rw data
+    ------               -------  -------  -------
+C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 - 副本\Projecct\IAR\program\Debug\Obj: [1]
+    Debug.o                2 220      153        3
+    Init.o                 1 008        4        5
+    KEA128_adc.o             108
+    KEA128_flash.o           336       16       20
+    KEA128_ftm.o           1 088       12        8
+    KEA128_gpio.o            392       12
+    KEA128_pit.o             116
+    KEA128_port.o             88
+    KEA128_systick.o          80
+    KEA128_uart.o            436       12       12
+    LQ_OLED.o              1 700    2 724
+    common.o                 204       24       16
+    fuzzy.o                1 564      256
+    isr.o                  3 616        6       73
+    main.o                 1 608       64       82
+    speed.o                  596                32
+    startup_SKEAZ1284.o      296
+    system_SKEAZ1284.o       128
+    ----------------------------------------------
+    Total:                15 584    3 283      251
+
+command line: [2]
+    ----------------------------------------------
+    Total:
+
+dl6M_tlf.a: [3]
+    errno.o                   16        4        4
+    exit.o                     8
+    low_level_init.o           4
+    xtls.o                     2
+    ----------------------------------------------
+    Total:                    30        4        4
+
+m6M_tl.a: [4]
+    DblAddSub.o              436
+    DblCmpEq.o                36
+    DblCmpGe.o                50
+    DblCmpLe.o                50
+    DblDiv.o                 194
+    DblMul.o                 388
+    DblToFlt.o                98
+    DblToI32.o                78
+    FltAddSub.o              288
+    FltCmpGe.o                40
+    FltCmpLe.o                38
+    FltDiv.o                 170
+    FltMul.o                 176
+    FltToDbl.o                50
+    FltToS32.o                58
+    I32ToDbl.o                52
+    I32ToFlt.o                54
+    powl.o                 2 176
+    xdint.o                  132
+    xdscale.o                128
+    xexp.o                   760
+    xlog.o                   164
+    ----------------------------------------------
+    Total:                 5 616
+
+rt6M_tl.a: [5]
+    ABImemcpy.o               52
+    ABImemset.o               52
+    I32DivModFast.o          224
+    IntDivZer.o                2
+    cexit.o                   10
+    cmain.o                   26
+    copy_init3.o              48
+    cstartup_M.o              12
+    data_init.o               40
+    zero_init3.o              60
+    ----------------------------------------------
+    Total:                   526
+
+shb_l.a: [6]
+    exit.o                    20
+    ----------------------------------------------
+    Total:                    20
+
+    Linker created                     37    1 024
+--------------------------------------------------
+    Grand Total:          21 776    3 324    1 279
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                      Address   Size  Type      Object
+-----                      -------   ----  ----      ------
+.iar.init_table$$Base   0x0000631c          --   Gb  - Linker created -
+.iar.init_table$$Limit  0x00006340          --   Gb  - Linker created -
+?main                   0x0000635d         Code  Gb  cmain.o [5]
+Abs                     0x000019c5   0x20  Code  Gb  Init.o [1]
+Bubble                  0x0000182f   0x64  Code  Gb  Init.o [1]
+CSTACK$$Base            0x1ffff100          --   Gb  - Linker created -
+CSTACK$$Limit           0x1ffff500          --   Gb  - Linker created -
+Dis_Float               0x00003ad1  0x186  Code  Gb  LQ_OLED.o [1]
+Dis_Num                 0x00003a19   0xae  Code  Gb  LQ_OLED.o [1]
+Disbuff                 0x1ffff028   0x20  Data  Gb  main.o [1]
+Display                 0x1ffff048   0x20  Data  Gb  main.o [1]
+Err_dev_speed           0x1ffff0d8    0x2  Data  Gb  speed.o [1]
+Err_speed               0x1ffff0da    0x2  Data  Gb  speed.o [1]
+Expect_speed            0x1ffff0ce    0x2  Data  Gb  speed.o [1]
+F14x16                  0x00005c90  0x460  Data  Gb  LQ_OLED.o [1]
+F14x16_Idx              0x00006234   0x54  Data  Gb  LQ_OLED.o [1]
+F8X16                   0x000056a0  0x5f0  Data  Gb  LQ_OLED.o [1]
+FLASH_EraseSector       0x000055bb   0x3a  Code  Gb  KEA128_flash.o [1]
+FLASH_Init              0x0000557d   0x3e  Code  Gb  KEA128_flash.o [1]
+FLASH_WriteSector       0x000055f5   0x84  Code  Gb  KEA128_flash.o [1]
+FTMX                    0x00006414    0xc  Data  Lc  KEA128_ftm.o [1]
+FlashCmdStart           0x00005551   0x2c  Code  Gb  KEA128_flash.o [1]
+Fuzzy1                  0x000028e9  0x616  Code  Gb  fuzzy.o [1]
+GPIOX                   0x00006420    0xc  Data  Lc  KEA128_gpio.o [1]
+LCD_DLY_ms              0x000036c9   0x1c  Code  Gb  LQ_OLED.o [1]
+LCD_Fill                0x00003689   0x40  Code  Gb  LQ_OLED.o [1]
+LCD_Init                0x000036e5  0x100  Code  Gb  LQ_OLED.o [1]
+LCD_P14x16Str           0x00003889  0x120  Code  Gb  LQ_OLED.o [1]
+LCD_P8x16Str            0x000037e5   0x9c  Code  Gb  LQ_OLED.o [1]
+LCD_Print               0x000039a9   0x6a  Code  Gb  LQ_OLED.o [1]
+LCD_Set_Pos             0x0000365f   0x2a  Code  Gb  LQ_OLED.o [1]
+LCD_WrCmd               0x00003611   0x4e  Code  Gb  LQ_OLED.o [1]
+LCD_WrDat               0x000035bd   0x52  Code  Gb  LQ_OLED.o [1]
+Motor_left              0x1ffff0c2    0x2  Data  Gb  isr.o [1]
+Motor_right             0x1ffff0c0    0x2  Data  Gb  isr.o [1]
+NVIC_EnableIRQ          0x00004e3d    0xe  Code  Lc  main.o [1]
+NVIC_SetPriority        0x0000165d   0x84  Code  Lc  Init.o [1]
+PID_I                   0x1ffff0bc    0x4  Data  Gb  speed.o [1]
+PID_P                   0x1ffff0b8    0x4  Data  Gb  speed.o [1]
+PIT_CH0_IRQHandler      0x00000411  0xe20  Code  Gb  isr.o [1]
+PIT_CH0_IRQHandler::ser_duty_last
+                        0x1ffff0ac    0x4  Data  Lc  isr.o [1]
+PIT_CH0_IRQHandler::ser_last_err
+                        0x1ffff0a8    0x4  Data  Lc  isr.o [1]
+Region$$Table$$Base     0x0000631c          --   Gb  - Linker created -
+Region$$Table$$Limit    0x00006340          --   Gb  - Linker created -
+Start                   0x000061c9   0x42  Code  Gb  system_SKEAZ1284.o [1]
+UI                      0x1ffff0e3    0x1  Data  Gb  Debug.o [1]
+__Vectors               0x00000000          --   Gb  startup_SKEAZ1284.o [1]
+__Vectors_End           0x000000c0         Data  Gb  startup_SKEAZ1284.o [1]
+__Vectors_Size {Abs}    0x000000c0          --   Gb  startup_SKEAZ1284.o [1]
+__aeabi_cdcmpeq         0x00004005         Code  Gb  DblCmpEq.o [4]
+__aeabi_cdcmple         0x0000406b         Code  Gb  DblCmpLe.o [4]
+__aeabi_cdrcmple        0x00004039         Code  Gb  DblCmpGe.o [4]
+__aeabi_cfcmple         0x0000160d         Code  Gb  FltCmpLe.o [4]
+__aeabi_cfrcmple        0x00001635         Code  Gb  FltCmpGe.o [4]
+__aeabi_d2f             0x000023c3         Code  Gb  DblToFlt.o [4]
+__aeabi_d2iz            0x0000409d         Code  Gb  DblToI32.o [4]
+__aeabi_dadd            0x000025db         Code  Gb  DblAddSub.o [4]
+__aeabi_ddiv            0x00002301         Code  Gb  DblDiv.o [4]
+__aeabi_dmul            0x00002457         Code  Gb  DblMul.o [4]
+__aeabi_dsub            0x000026a1         Code  Gb  DblAddSub.o [4]
+__aeabi_errno_addr      0x00004029    0xa  Code  Gb  errno.o [3]
+__aeabi_f2d             0x00002425         Code  Gb  FltToDbl.o [4]
+__aeabi_f2iz            0x00003061         Code  Gb  FltToS32.o [4]
+__aeabi_fadd            0x000027c7         Code  Gb  FltAddSub.o [4]
+__aeabi_fdiv            0x00002f05         Code  Gb  FltDiv.o [4]
+__aeabi_fmul            0x00002faf         Code  Gb  FltMul.o [4]
+__aeabi_fsub            0x00002837         Code  Gb  FltAddSub.o [4]
+__aeabi_i2d             0x00001a4d         Code  Gb  I32ToDbl.o [4]
+__aeabi_i2f             0x00002791         Code  Gb  I32ToFlt.o [4]
+__aeabi_idiv            0x00003509         Code  Gb  I32DivModFast.o [5]
+__aeabi_idiv0           0x000044bd         Code  Gb  IntDivZer.o [5]
+__aeabi_idivmod         0x00003509         Code  Gb  I32DivModFast.o [5]
+__aeabi_memclr4         0x00003f7d         Code  Gb  ABImemset.o [5]
+__aeabi_memclr8         0x00003f7d         Code  Gb  ABImemset.o [5]
+__aeabi_memcpy4         0x00004489         Code  Wk  ABImemcpy.o [5]
+__aeabi_ui2d            0x00001a61         Code  Gb  I32ToDbl.o [4]
+__aeabi_ui2f            0x000027a9         Code  Gb  I32ToFlt.o [4]
+__aeabi_uidiv           0x0000350f         Code  Gb  I32DivModFast.o [5]
+__aeabi_uidivmod        0x0000350f         Code  Gb  I32DivModFast.o [5]
+__cmain                 0x0000635d         Code  Gb  cmain.o [5]
+__exit                  0x00006391   0x14  Code  Gb  exit.o [6]
+__iar_Dint              0x00003f81   0x84  Code  Gb  xdint.o [4]
+__iar_Dscale            0x000044c1   0x80  Code  Gb  xdscale.o [4]
+__iar_Errno             0x1ffff020    0x4  Data  Gb  errno.o [3]
+__iar_Exp               0x00004191  0x2f8  Code  Gb  xexp.o [4]
+__iar_Logpoly           0x000040ed   0x6c  Code  Gb  xlog.o [4]
+__iar_Memset4_word      0x00003f4d         Code  Gb  ABImemset.o [5]
+__iar_copy_init3        0x000062c5   0x30  Code  Gb  copy_init3.o [5]
+__iar_d2uiz             0x000040c1         Code  Gb  DblToI32.o [4]
+__iar_data_init3        0x000062f5   0x28  Code  Gb  data_init.o [5]
+__iar_dlib_perthread_access
+                        0x000044bf    0x2  Code  Gb  xtls.o [3]
+__iar_program_start     0x0000642d         Code  Gb  cstartup_M.o [5]
+__iar_ui2d              0x00001a65         Code  Gb  I32ToDbl.o [4]
+__iar_ui2f              0x000027ad         Code  Gb  I32ToFlt.o [4]
+__iar_zero_init3        0x00006289   0x3c  Code  Gb  zero_init3.o [5]
+__low_level_init        0x00006377    0x4  Code  Gb  low_level_init.o [3]
+__vector_table          0x00000000         Data  Gb  startup_SKEAZ1284.o [1]
+_call_main              0x00006369         Code  Gb  cmain.o [5]
+_exit                   0x00006385         Code  Gb  cexit.o [5]
+_main                   0x00006373         Code  Gb  cmain.o [5]
+actual_speed            0x1ffff0cc    0x2  Data  Gb  speed.o [1]
+adc                     0x1ffff084    0x8  Data  Gb  main.o [1]
+adc_init                0x00003c61   0x24  Code  Gb  KEA128_adc.o [1]
+adc_once                0x00003c85   0x30  Code  Gb  KEA128_adc.o [1]
+all_Init                0x000016e1  0x14e  Code  Gb  Init.o [1]
+bluetooth_flag          0x1ffff024    0x1  Data  Gb  Debug.o [1]
+boma                    0x1ffff0fb    0x1  Data  Gb  main.o [1]
+bus_clk_khz             0x1ffff098    0x4  Data  Gb  common.o [1]
+circle_left             0x1ffff0ee    0x1  Data  Gb  isr.o [1]
+circle_right            0x1ffff0ed    0x1  Data  Gb  isr.o [1]
+close_flag              0x1ffff0fe    0x1  Data  Gb  speed.o [1]
+close_round             0x1ffff0f1    0x1  Data  Gb  isr.o [1]
+core_clk_khz            0x1ffff094    0x4  Data  Gb  common.o [1]
+count_flag              0x1ffff0f3    0x1  Data  Gb  isr.o [1]
+dirction_count          0x1ffff0f0    0x1  Data  Gb  isr.o [1]
+direction_stop_flag     0x1ffff0fc    0x1  Data  Gb  main.o [1]
+disable_wdog            0x000061b5   0x14  Code  Gb  system_SKEAZ1284.o [1]
+display                 0x00004541  0x480  Code  Gb  Debug.o [1]
+exit                    0x0000637b    0x8  Code  Gb  exit.o [3]
+ftm_clk_khz             0x1ffff090    0x4  Data  Gb  common.o [1]
+ftm_count_clean         0x000034ad   0x10  Code  Gb  KEA128_ftm.o [1]
+ftm_count_get           0x0000349d   0x10  Code  Gb  KEA128_ftm.o [1]
+ftm_count_init          0x0000344d   0x50  Code  Gb  KEA128_ftm.o [1]
+ftm_count_mux           0x000033a9   0x9c  Code  Gb  KEA128_ftm.o [1]
+ftm_pwm_duty            0x00003317   0x78  Code  Gb  KEA128_ftm.o [1]
+ftm_pwm_init            0x000031c3  0x154  Code  Gb  KEA128_ftm.o [1]
+ftm_pwm_mux             0x0000309d  0x126  Code  Gb  KEA128_ftm.o [1]
+get_clk                 0x00005485   0xcc  Code  Gb  common.o [1]
+gpio_get                0x0000133b   0x36  Code  Gb  KEA128_gpio.o [1]
+gpio_init               0x00001231  0x10a  Code  Gb  KEA128_gpio.o [1]
+gpio_set                0x00001371   0x42  Code  Gb  KEA128_gpio.o [1]
+gradinets               0x1ffff0d0    0x2  Data  Gb  speed.o [1]
+ics_clk_khz             0x1ffff08c    0x4  Data  Gb  common.o [1]
+internal_Pow            0x00001a81  0x41e  Code  Lc  powl.o [4]
+k_d                     0x1ffff0c6    0x2  Data  Gb  isr.o [1]
+k_p                     0x1ffff0a0    0x4  Data  Gb  isr.o [1]
+key_read                0x00004afb  0x2b0  Code  Gb  Debug.o [1]
+key_scan                0x00004a29   0xd2  Code  Gb  Debug.o [1]
+left_count              0x1ffff0d6    0x2  Data  Gb  speed.o [1]
+left_motor              0x1ffff0de    0x2  Data  Gb  speed.o [1]
+lnbias                  0x00001ee0  0x420  Data  Lc  powl.o [4]
+main                    0x00004e51  0x59c  Code  Gb  main.o [1]
+mode                    0x1ffff0e2    0x1  Data  Gb  Debug.o [1]
+motor_count_pulse       0x000013b9   0x70  Code  Gb  speed.o [1]
+motor_pulse_speed       0x1ffff0d2    0x2  Data  Gb  speed.o [1]
+normal                  0x1ffff0fa    0x1  Data  Gb  main.o [1]
+open_flag               0x1ffff0ff    0x1  Data  Gb  speed.o [1]
+out_flag                0x1ffff026    0x1  Data  Gb  isr.o [1]
+out_round               0x1ffff0f4    0x1  Data  Gb  isr.o [1]
+period                  0x1ffff07c    0x8  Data  Gb  KEA128_ftm.o [1]
+pit_init                0x00003d25   0x68  Code  Gb  KEA128_pit.o [1]
+port_pull               0x00003ccd   0x58  Code  Gb  KEA128_port.o [1]
+powl                    0x00001ed1    0xe  Code  Gb  powl.o [4]
+ramp_count              0x1ffff0f7    0x1  Data  Gb  isr.o [1]
+ramp_flag               0x1ffff0f6    0x1  Data  Gb  isr.o [1]
+ramp_speed_dowm         0x1ffff0f8    0x1  Data  Gb  isr.o [1]
+right_count             0x1ffff0d4    0x2  Data  Gb  speed.o [1]
+right_motor             0x1ffff0dc    0x2  Data  Gb  speed.o [1]
+round_count             0x1ffff025    0x1  Data  Gb  isr.o [1]
+round_flag              0x1ffff0eb    0x1  Data  Gb  isr.o [1]
+round_hight             0x1ffff0c8    0x2  Data  Gb  isr.o [1]
+round_low               0x1ffff0f2    0x1  Data  Gb  isr.o [1]
+round_status            0x1ffff01c    0x4  Data  Gb  isr.o [1]
+round_turn              0x1ffff0ec    0x1  Data  Gb  isr.o [1]
+s_flash_command_run     0x1ffff000   0x10  Data  Gb  KEA128_flash.o [1]
+s_flash_run_entry       0x1ffff0b0    0x4  Data  Gb  KEA128_flash.o [1]
+senmax                  0x1ffff0b4    0x4  Data  Gb  main.o [1]
+senser_collect          0x00001893  0x12a  Code  Gb  Init.o [1]
+ser                     0x1ffff068   0x14  Data  Gb  isr.o [1]
+ser_duty                0x1ffff0c4    0x2  Data  Gb  isr.o [1]
+ser_ec                  0x1ffff0a4    0x4  Data  Gb  isr.o [1]
+ser_err                 0x1ffff09c    0x4  Data  Gb  isr.o [1]
+ser_left                0x1ffff0e5    0x1  Data  Gb  Init.o [1]
+ser_middle              0x1ffff0e6    0x1  Data  Gb  Init.o [1]
+ser_right               0x1ffff0e4    0x1  Data  Gb  Init.o [1]
+speed_control           0x00001429  0x17a  Code  Gb  speed.o [1]
+speed_control::Err_speed_last
+                        0x1ffff0e0    0x2  Data  Lc  speed.o [1]
+speed_count             0x1ffff0ef    0x1  Data  Gb  isr.o [1]
+speed_switch            0x1ffff0fd    0x1  Data  Gb  main.o [1]
+start_flag              0x1ffff0ea    0x1  Data  Gb  isr.o [1]
+stop                    0x1ffff0f9    0x1  Data  Gb  isr.o [1]
+stop_count              0x1ffff0f5    0x1  Data  Gb  isr.o [1]
+straight                0x1ffff0ca    0x2  Data  Gb  main.o [1]
+straight_left           0x1ffff0e7    0x1  Data  Gb  Init.o [1]
+straight_right          0x1ffff0e8    0x1  Data  Gb  Init.o [1]
+systick_delay           0x00004ded   0x26  Code  Gb  KEA128_systick.o [1]
+systick_delay_ms        0x00004e13   0x18  Code  Gb  KEA128_systick.o [1]
+threshold               0x1ffff0e9    0x1  Data  Gb  isr.o [1]
+uart                    0x1ffff010    0xc  Data  Gb  KEA128_uart.o [1]
+uart_init               0x00003e0f   0xe6  Code  Gb  KEA128_uart.o [1]
+uart_mux                0x00003d99   0x76  Code  Gb  KEA128_uart.o [1]
+uart_putbuff            0x00003f15   0x20  Code  Gb  KEA128_uart.o [1]
+uart_putchar            0x00003ef5   0x20  Code  Gb  KEA128_uart.o [1]
+vcan_sendware           0x000019e5   0x3a  Code  Gb  Init.o [1]
+
+
+[1] = C:\Users\asus\Desktop\全都是IAR\程序\第三版整合 - 副本\Projecct\IAR\program\Debug\Obj
+[2] = command line
+[3] = dl6M_tlf.a
+[4] = m6M_tl.a
+[5] = rt6M_tl.a
+[6] = shb_l.a
+
+  21 776 bytes of readonly  code memory
+   3 324 bytes of readonly  data memory
+   1 279 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

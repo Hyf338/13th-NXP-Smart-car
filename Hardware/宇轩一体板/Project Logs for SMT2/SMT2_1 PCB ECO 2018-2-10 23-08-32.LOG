@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=S_GND Pin=P2-1
+Removed Pin From Net: NetName=5V_ELSE Pin=P2-2
+Change Component Designator: OldDesignator= NewDesignator=Q_KEAP80SYSVK
+Added Pin To Net: NetName=5V_ELSE Pin=P2-1
+Added Pin To Net: NetName=S_GND Pin=P2-2
+Added Member To Class: ClassName=SMT2 Member=Component Q_KEAP80SYSVK LQ_KEAP80SYSVK

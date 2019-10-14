@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ADC_CH4 Pin=P10-1
+Removed Pin From Net: NetName=ADC_CH3 Pin=P10-2
+Removed Pin From Net: NetName=ADC_CH2 Pin=P10-3
+Removed Pin From Net: NetName=ADC_CH1 Pin=P10-4
+Removed Member From Class: ClassName=SMT2 Member=P10
+Added Component: Designator=ADC4(S0P4)
+Added Pin To Net: NetName=ADC_CH1 Pin=ADC4-1
+Added Pin To Net: NetName=ADC_CH2 Pin=ADC4-2
+Added Pin To Net: NetName=ADC_CH3 Pin=ADC4-3
+Added Pin To Net: NetName=ADC_CH4 Pin=ADC4-4
+Added Member To Class: ClassName=SMT2 Member=Component ADC4

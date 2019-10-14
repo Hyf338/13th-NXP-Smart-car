@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V_MCU Pin=C22-1
+Removed Pin From Net: NetName=5V_MCU Pin=P3-4
+Added Pin To Net: NetName=5V_ELSE Pin=C22-1
+Added Pin To Net: NetName=5V_ELSE Pin=P3-4

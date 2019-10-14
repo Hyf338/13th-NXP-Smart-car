@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5V_MCU Pin=RP2-1
+Removed Pin From Net: NetName=5V_MCU Pin=RP2-3
+Removed Pin From Net: NetName=5V_MCU Pin=RP2-5
+Removed Pin From Net: NetName=5V_MCU Pin=RP2-7
+Removed Pin From Net: NetName=A_GND Pin=S1-1
+Removed Pin From Net: NetName=A_GND Pin=S1-2
+Removed Pin From Net: NetName=A_GND Pin=S1-3
+Removed Pin From Net: NetName=A_GND Pin=S1-4
+Removed Member From Class: ClassName=SMT2 Member=RP2
+Added Room: Name=SMT2

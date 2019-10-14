@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PWM_CH1 Pin=Q_KEAP80SYSVK-48
+Removed Pin From Net: NetName=PWM_CH2 Pin=Q_KEAP80SYSVK-49
+Removed Pin From Net: NetName=PWM_CH4 Pin=Q_KEAP80SYSVK-55
+Removed Pin From Net: NetName=PWM_CH3 Pin=Q_KEAP80SYSVK-56
+Added Pin To Net: NetName=PWM_CH4 Pin=Q_KEAP80SYSVK-8
+Added Pin To Net: NetName=PWM_CH3 Pin=Q_KEAP80SYSVK-9
+Added Pin To Net: NetName=PWM_CH2 Pin=Q_KEAP80SYSVK-10
+Added Pin To Net: NetName=PWM_CH1 Pin=Q_KEAP80SYSVK-11

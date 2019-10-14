@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=C5-1
+Removed Pin From Net: NetName=S_GND Pin=C5-2
+Removed Pin From Net: NetName=5V_ELSE Pin=C6-1
+Removed Pin From Net: NetName=S_GND Pin=C6-2
+Removed Pin From Net: NetName=5V_ELSE Pin=C7-1
+Removed Pin From Net: NetName=S_GND Pin=C7-2
+Removed Pin From Net: NetName=VCC7.2V Pin=P5-1
+Removed Pin From Net: NetName=PWM_CH3 Pin=U?-3
+Removed Pin From Net: NetName=PWM_CH2 Pin=U?-4
+Removed Pin From Net: NetName=PWM_CH1 Pin=U?-28
+Change Component Designator: OldDesignator=C5 NewDesignator=C17
+Change Component Designator: OldDesignator=C6 NewDesignator=C18
+Change Component Designator: OldDesignator=C7 NewDesignator=C19
+Change Component Designator: OldDesignator=P5 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P9
+Added Pin To Net: NetName=VCC_3.3V Pin=C5-1
+Added Pin To Net: NetName=S_GND Pin=C5-2
+Added Pin To Net: NetName=5V_ELSE Pin=C6-1
+Added Pin To Net: NetName=S_GND Pin=C6-2
+Added Pin To Net: NetName=5V_ELSE Pin=C7-1
+Added Pin To Net: NetName=S_GND Pin=C7-2
+Added Pin To Net: NetName=A_GND Pin=C17-1
+Added Pin To Net: NetName=A_GND Pin=C18-1
+Added Pin To Net: NetName=A_GND Pin=C19-1
+Added Pin To Net: NetName=VCC7.2V Pin=P5-1
+Added Pin To Net: NetName=L_BHS Pin=P7-1
+Added Pin To Net: NetName=PWM_CH4 Pin=U?-3
+Added Pin To Net: NetName=PWM_CH3 Pin=U?-4
+Added Pin To Net: NetName=PWM_CH2 Pin=U?-28
+Added Pin To Net: NetName=PWM_CH1 Pin=U?-29
+Change Net Name : Old Net Name=ADC_CH0 New Net Name=ADC_CH1
+Change Net Name : Old Net Name=ADC_CH1 New Net Name=ADC_CH2
+Change Net Name : Old Net Name=ADC_CH2 New Net Name=ADC_CH3
+Change Net Name : Old Net Name=ADC_CH3 New Net Name=ADC_CH4
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=C18-2
+Added Pin To Net: NetName=NetC17_2 Pin=C19-2
+Added Pin To Net: NetName=NetC17_2 Pin=L1-2
+Added Pin To Net: NetName=NetC17_2 Pin=U?-10
+Added Net: Name=NetC17_2
+Added Member To Class: ClassName=SMT2 Member=Component C17 Cap
+Added Member To Class: ClassName=SMT2 Member=Component C18 Cap
+Added Member To Class: ClassName=SMT2 Member=Component C19 Cap
+Added Member To Class: ClassName=SMT2 Member=Component P9 POWER_PIN

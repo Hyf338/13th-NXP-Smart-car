@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=F4 Pin=Q_KEAP80SYSVK-61
+Removed Pin From Net: NetName=F5 Pin=Q_KEAP80SYSVK-65
+Added Pin To Net: NetName=F5 Pin=Q_KEAP80SYSVK-61
+Added Pin To Net: NetName=F4 Pin=Q_KEAP80SYSVK-65

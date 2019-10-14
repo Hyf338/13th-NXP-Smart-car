@@ -1,0 +1,49 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Hea New DesignItemId=He
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Hea New DesignItemId=He
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Hea New DesignItemId=He
+Change Component DesignItemId : Designator=T2 Old DesignItemId=N_MOS(IR New DesignItemId=N
+Change Component DesignItemId : Designator=T3 Old DesignItemId=N_MOS(IR New DesignItemId=N
+Change Component DesignItemId : Designator=T4 Old DesignItemId=N_MOS(IR New DesignItemId=N
+Change Component DesignItemId : Designator=T5 Old DesignItemId=N_MOS(IR New DesignItemId=N
+Change Component DesignItemId : Designator=T6 Old DesignItemId=N_MOS(IR New DesignItemId=N
+Change Component DesignItemId : Designator=T7 Old DesignItemId=N_MOS(IR New DesignItemId=N
+Change Component DesignItemId : Designator=T8 Old DesignItemId=N_MOS(IR New DesignItemId=N
+Change Component DesignItemId : Designator=T9 Old DesignItemId=N_MOS(IR New DesignItemId=N
+Change Component Comment : Designator=D1 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D2 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D3 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D4 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D5 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D6 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D7 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D8 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D9 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D10 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D11 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D12 Old Comment=二极管 New Comment=*
+Change Component Comment : Designator=D13 Old Comment=二极管 New Comment=*
+Change Component Description : Designator=U1 Old Description=? New Description=稳压元件（5V）
+Change Component Description : Designator=U3 Old Description=? New Description=稳压元件（5V）
+Change Component Description : Designator=P1 Old Description=Header, 4-Pi New Description=Header, 4-Pin
+Change Component Description : Designator=P2 Old Description=Header, 4-Pi New Description=Header, 4-Pin
+Change Component Description : Designator=P3 Old Description=Header, 4-Pi New Description=Header, 4-Pin
+Change Component Description : Designator=T2 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T3 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T4 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T5 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T6 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T7 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T8 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T9 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=C15 Old Description=Polarized Capacitor (Radia New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=U2 Old Description=稳? New Description=稳压元件（3.3V）
+Change Component Description : Designator=R35 Old Description=通用? New Description=通用电阻
+Change Component Description : Designator=R36 Old Description=通用? New Description=通用电阻
+Change Component Description : Designator=R37 Old Description=通用? New Description=通用电阻
+Change Component Description : Designator=R38 Old Description=通用? New Description=通用电阻
+Added Component: Designator=P10(WAFER4)
+Added Pin To Net: NetName=ADC_CH4 Pin=P10-1
+Added Pin To Net: NetName=ADC_CH3 Pin=P10-2
+Added Pin To Net: NetName=ADC_CH2 Pin=P10-3
+Added Pin To Net: NetName=ADC_CH1 Pin=P10-4
+Added Member To Class: ClassName=SMT2 Member=Component P10 Header 4

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC7.2V Pin=P5-1
+Added Component: Designator=K2(钮子开关（大）)
+Added Pin To Net: NetName=VCC7.2V Pin=K2-1
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=NetK2_2 Pin=K2-3
+Added Pin To Net: NetName=NetK2_2 Pin=P5-1
+Added Net: Name=NetK2_2
+Added Member To Class: ClassName=SMT2 Member=Component K2 KEY

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=FTM_IO1 Pin=U1-7
+Removed Pin From Net: NetName=FTM_PIN2 Pin=U1-8
+Added Pin To Net: NetName=A_GND Pin=U1-1
+Added Pin To Net: NetName=5V_MCU Pin=U1-2
+Added Pin To Net: NetName=PWM_CH4 Pin=U1-3
+Added Pin To Net: NetName=PWM_CH3 Pin=U1-4
+Added Pin To Net: NetName=5V_ELSE Pin=U1-7
+Added Pin To Net: NetName=FTM_IO1 Pin=U1-7
+Added Pin To Net: NetName=FTM_PIN2 Pin=U1-8

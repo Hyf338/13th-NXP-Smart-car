@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=K4 Pin=Q_KEAP80SYSVK-27
+Removed Pin From Net: NetName=K2 Pin=Q_KEAP80SYSVK-31
+Added Pin To Net: NetName=K2 Pin=Q_KEAP80SYSVK-27
+Added Pin To Net: NetName=K4 Pin=Q_KEAP80SYSVK-31

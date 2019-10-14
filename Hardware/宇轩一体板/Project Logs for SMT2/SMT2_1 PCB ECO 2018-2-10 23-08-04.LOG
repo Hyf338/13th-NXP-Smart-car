@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FTM_PIN2 Pin=P2-3
+Removed Pin From Net: NetName=FTM_IO2 Pin=P2-4
+Change Component Designator: OldDesignator= NewDesignator=Q_KEAP80SYSVK
+Added Pin To Net: NetName=FTM_IO2 Pin=P2-3
+Added Pin To Net: NetName=FTM_PIN2 Pin=P2-4

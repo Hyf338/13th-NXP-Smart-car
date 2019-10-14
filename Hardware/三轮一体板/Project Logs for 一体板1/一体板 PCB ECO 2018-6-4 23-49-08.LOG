@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SGND Pin=RP1-1
+Removed Pin From Net: NetName=TPM2_CH1 Pin=RP1-2
+Removed Pin From Net: NetName=SGND Pin=RP1-3
+Removed Pin From Net: NetName=TPM2_CH2 Pin=RP1-4
+Removed Pin From Net: NetName=SGND Pin=RP1-5
+Removed Pin From Net: NetName=TPM2_CH3 Pin=RP1-6
+Removed Pin From Net: NetName=SGND Pin=RP1-7
+Removed Pin From Net: NetName=TPM2_CH4 Pin=RP1-8
+Removed Member From Class: ClassName=Ò»Με°ε1 Member=RP1

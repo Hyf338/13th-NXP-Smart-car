@@ -1,0 +1,28 @@
+Added Component: Designator=K2(K_Press)
+Added Component: Designator=K3(K_Press)
+Added Component: Designator=K4(K_Press)
+Added Component: Designator=K5(K_Press)
+Added Pin To Net: NetName=A_GND Pin=K1-2
+Added Pin To Net: NetName=A_GND Pin=K2-2
+Added Pin To Net: NetName=A_GND Pin=K3-2
+Added Pin To Net: NetName=A_GND Pin=K4-2
+Added Pin To Net: NetName=A_GND Pin=K5-2
+Added Pin To Net: NetName=K1 Pin=K1-1
+Added Pin To Net: NetName=K1 Pin=Q_KEAP80SYSVK-33
+Added Net: Name=K1
+Added Pin To Net: NetName=K2 Pin=K2-1
+Added Pin To Net: NetName=K2 Pin=Q_KEAP80SYSVK-31
+Added Net: Name=K2
+Added Pin To Net: NetName=K3 Pin=K3-1
+Added Pin To Net: NetName=K3 Pin=Q_KEAP80SYSVK-29
+Added Net: Name=K3
+Added Pin To Net: NetName=K4 Pin=K4-1
+Added Pin To Net: NetName=K4 Pin=Q_KEAP80SYSVK-27
+Added Net: Name=K4
+Added Pin To Net: NetName=K5 Pin=K5-1
+Added Pin To Net: NetName=K5 Pin=Q_KEAP80SYSVK-28
+Added Net: Name=K5
+Added Member To Class: ClassName=SMT2 Member=Component K2 Key Press
+Added Member To Class: ClassName=SMT2 Member=Component K3 Key Press
+Added Member To Class: ClassName=SMT2 Member=Component K4 Key Press
+Added Member To Class: ClassName=SMT2 Member=Component K5 Key Press

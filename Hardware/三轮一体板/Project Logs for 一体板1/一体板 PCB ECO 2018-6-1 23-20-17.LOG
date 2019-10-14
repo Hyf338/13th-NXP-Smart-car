@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=A_4 Pin=KEA1-26
+Removed Pin From Net: NetName=A_2 Pin=KEA1-28
+Removed Pin From Net: NetName=A_1 Pin=KEA1-30
+Removed Pin From Net: NetName=A_0 Pin=KEA1-31
+Removed Pin From Net: NetName=A_3 Pin=KEA1-34
+Removed Pin From Net: NetName=ADC0_SE3 Pin=KEA1-45
+Removed Pin From Net: NetName=ADC0_SE2 Pin=KEA1-46
+Change Component Comment : Designator=R4 Old Comment=10K New Comment=1K
+Added Pin To Net: NetName=A_4 Pin=KEA1-64
+Added Pin To Net: NetName=A_3 Pin=KEA1-65
+Added Pin To Net: NetName=A_2 Pin=KEA1-66
+Added Pin To Net: NetName=A_1 Pin=KEA1-67
+Added Pin To Net: NetName=A_0 Pin=KEA1-68
+Change Net Name : Old Net Name=C0 New Net Name=ADC0_SE8
+Added Pin To Net: NetName=ADC0_SE9 Pin=KEA1-31
+Added Net: Name=ADC0_SE9

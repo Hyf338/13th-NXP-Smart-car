@@ -1,0 +1,195 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=Bluetooth1-1
+Removed Pin From Net: NetName=A_GND Pin=Bluetooth1-2
+Removed Pin From Net: NetName=A_GND Pin=C17-1
+Removed Pin From Net: NetName=A_GND Pin=C18-1
+Removed Pin From Net: NetName=A_GND Pin=C19-1
+Removed Pin From Net: NetName=5V_MCU Pin=L1-1
+Removed Pin From Net: NetName=A_GND Pin=MK-1
+Removed Pin From Net: NetName=5V_MCU Pin=MK-2
+Removed Pin From Net: NetName=PWM_CH4 Pin=MK-3
+Removed Pin From Net: NetName=PWM_CH3 Pin=MK-4
+Removed Pin From Net: NetName=FTM_IO1 Pin=MK-7
+Removed Pin From Net: NetName=FTM_PIN2 Pin=MK-8
+Removed Pin From Net: NetName=BUZZER Pin=MK-9
+Removed Pin From Net: NetName=A_GND Pin=MK-11
+Removed Pin From Net: NetName=SWITCH1 Pin=MK-15
+Removed Pin From Net: NetName=SWITCH2 Pin=MK-16
+Removed Pin From Net: NetName=SWITCH3 Pin=MK-17
+Removed Pin From Net: NetName=SWITCH4 Pin=MK-18
+Removed Pin From Net: NetName=KEY5 Pin=MK-21
+Removed Pin From Net: NetName=KEY4 Pin=MK-22
+Removed Pin From Net: NetName=KEY3 Pin=MK-23
+Removed Pin From Net: NetName=KEY2 Pin=MK-24
+Removed Pin From Net: NetName=KEY1 Pin=MK-25
+Removed Pin From Net: NetName=PWM_CH2 Pin=MK-28
+Removed Pin From Net: NetName=PWM_CH1 Pin=MK-29
+Removed Pin From Net: NetName=ADC_CH4 Pin=MK-32
+Removed Pin From Net: NetName=ADC_CH3 Pin=MK-33
+Removed Pin From Net: NetName=ADC_CH2 Pin=MK-34
+Removed Pin From Net: NetName=ADC_CH1 Pin=MK-35
+Removed Pin From Net: NetName=IIC_CLK Pin=MK-54
+Removed Pin From Net: NetName=IIC_SDA Pin=MK-55
+Removed Pin From Net: NetName=FTM_PIN1 Pin=MK-69
+Removed Pin From Net: NetName=FTM_IO2 Pin=MK-70
+Removed Pin From Net: NetName=A_GND Pin=MK-71
+Removed Pin From Net: NetName=A_GND Pin=MK-72
+Removed Pin From Net: NetName=A_GND Pin=OLED1-1
+Removed Pin From Net: NetName=VCC_3.3V Pin=OLED1-2
+Removed Member From Class: ClassName=SMT2 Member=Bluetooth1
+Removed Member From Class: ClassName=SMT2 Member=C29
+Removed Member From Class: ClassName=SMT2 Member=C32
+Removed Member From Class: ClassName=SMT2 Member=C33
+Removed Member From Class: ClassName=SMT2 Member=C34
+Removed Member From Class: ClassName=SMT2 Member=L1
+Removed Member From Class: ClassName=SMT2 Member=MK
+Removed Member From Class: ClassName=SMT2 Member=OLED1
+Change Component DesignItemId : Designator=L2 Old DesignItemId= New DesignItemId=I
+Change Component DesignItemId : Designator=U7 Old DesignItemId= New DesignItemId=MC34063
+Change Component DesignItemId : Designator=T1 Old DesignItemId= New DesignItemId=PNP
+Change Component DesignItemId : Designator=D1 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D3 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D4 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D5 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D6 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D7 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D8 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D9 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D10 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D11 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D12 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=D13 Old DesignItemId= New DesignItemId=二极管
+Change Component DesignItemId : Designator=key Old DesignItemId= New DesignItemId=五向按键（大）
+Change Component DesignItemId : Designator=U5 Old DesignItemId=Buzzer New DesignItemId=B
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Heade New DesignItemId=Head
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Heade New DesignItemId=Head
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Heade New DesignItemId=Head
+Change Component DesignItemId : Designator=RP1 Old DesignItemId=Header 4X2 New DesignItemId=Heade
+Change Component DesignItemId : Designator=RP2 Old DesignItemId=Header 4X2 New DesignItemId=Heade
+Change Component DesignItemId : Designator=T2 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T3 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T4 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T5 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T6 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T7 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T8 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component DesignItemId : Designator=T9 Old DesignItemId=N New DesignItemId=N_MOS(IRLR7843)
+Change Component Comment : Designator=U5 Old Comment=Buzzer(有源蜂鸣器) New Comment=*
+Change Component Comment : Designator=S1 Old Comment=拨码开关(4位) New Comment=*
+Change Component Designator: OldDesignator=C14 NewDesignator=C22
+Change Component Designator: OldDesignator=C29 NewDesignator=C14
+Change Component Designator: OldDesignator=C30 NewDesignator=C15
+Change Component Designator: OldDesignator=C31 NewDesignator=C16
+Change Component Designator: OldDesignator=C32 NewDesignator=C17
+Change Component Designator: OldDesignator=C33 NewDesignator=C18
+Change Component Designator: OldDesignator=C34 NewDesignator=C19
+Change Component Designator: OldDesignator=C35 NewDesignator=C20
+Change Component Designator: OldDesignator=C36 NewDesignator=C21
+Change Component Description : Designator=K1 Old Description= New Description=六脚开关
+Change Component Description : Designator=LED1 Old Description= New Description=发光二极管
+Change Component Description : Designator=S1 Old Description= New Description=拨码开关（4位）
+Change Component Description : Designator=C1 Old Description= New Description=通用有极电容
+Change Component Description : Designator=C3 Old Description= New Description=通用有极电容
+Change Component Description : Designator=C4 Old Description= New Description=通用有极电容
+Change Component Description : Designator=C5 Old Description= New Description=通用有极电容
+Change Component Description : Designator=C9 Old Description= New Description=通用有极电容
+Change Component Description : Designator=C11 Old Description= New Description=通用有极电容
+Change Component Description : Designator=R3 Old Description= New Description=通用电阻
+Change Component Description : Designator=R4 Old Description= New Description=通用电阻
+Change Component Description : Designator=R5 Old Description= New Description=通用电阻
+Change Component Description : Designator=R6 Old Description= New Description=通用电阻
+Change Component Description : Designator=R7 Old Description= New Description=通用电阻
+Change Component Description : Designator=R8 Old Description= New Description=通用电阻
+Change Component Description : Designator=R9 Old Description= New Description=通用电阻
+Change Component Description : Designator=R10 Old Description= New Description=通用电阻
+Change Component Description : Designator=R11 Old Description= New Description=通用电阻
+Change Component Description : Designator=R12 Old Description= New Description=通用电阻
+Change Component Description : Designator=R13 Old Description= New Description=通用电阻
+Change Component Description : Designator=R14 Old Description= New Description=通用电阻
+Change Component Description : Designator=R15 Old Description= New Description=通用电阻
+Change Component Description : Designator=R16 Old Description= New Description=通用电阻
+Change Component Description : Designator=R17 Old Description= New Description=通用电阻
+Change Component Description : Designator=R18 Old Description= New Description=通用电阻
+Change Component Description : Designator=R19 Old Description= New Description=通用电阻
+Change Component Description : Designator=R20 Old Description= New Description=通用电阻
+Change Component Description : Designator=R21 Old Description= New Description=通用电阻
+Change Component Description : Designator=R22 Old Description= New Description=通用电阻
+Change Component Description : Designator=R23 Old Description= New Description=通用电阻
+Change Component Description : Designator=R24 Old Description= New Description=通用电阻
+Change Component Description : Designator=R25 Old Description= New Description=通用电阻
+Change Component Description : Designator=R26 Old Description= New Description=通用电阻
+Change Component Description : Designator=R27 Old Description= New Description=通用电阻
+Change Component Description : Designator=R28 Old Description= New Description=通用电阻
+Change Component Description : Designator=R29 Old Description= New Description=通用电阻
+Change Component Description : Designator=R30 Old Description= New Description=通用电阻
+Change Component Description : Designator=U1 Old Description=? New Description=稳压元件（5V）
+Change Component Description : Designator=U3 Old Description=? New Description=稳压元件（5V）
+Change Component Description : Designator=P1 Old Description=Header, 4-Pi New Description=Header, 4-Pin
+Change Component Description : Designator=P2 Old Description=Header, 4-Pi New Description=Header, 4-Pin
+Change Component Description : Designator=P3 Old Description=Header, 4-Pi New Description=Header, 4-Pin
+Change Component Description : Designator=RP1 Old Description=Header, 4-Pin, Dua New Description=Header, 4-Pin, Dual row
+Change Component Description : Designator=RP2 Old Description=Header, 4-Pin, Dua New Description=Header, 4-Pin, Dual row
+Change Component Description : Designator=T2 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T3 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T4 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T5 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T6 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T7 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T8 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=T9 Old Description=I New Description=IRLR7843
+Change Component Description : Designator=C15 Old Description=Polarized Capacitor (Radia New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=U2 Old Description=稳? New Description=稳压元件（3.3V）
+Added Component: Designator=Q_KEAP80SYSVK(LQ_KEAP80SYSVK)
+Added Pin To Net: NetName=IIC_CLK Pin=Q_KEAP80SYSVK-17
+Added Pin To Net: NetName=IIC_SDA Pin=Q_KEAP80SYSVK-18
+Added Pin To Net: NetName=SWITCH1 Pin=Q_KEAP80SYSVK-21
+Added Pin To Net: NetName=SWITCH2 Pin=Q_KEAP80SYSVK-22
+Added Pin To Net: NetName=SWITCH3 Pin=Q_KEAP80SYSVK-23
+Added Pin To Net: NetName=SWITCH4 Pin=Q_KEAP80SYSVK-24
+Added Pin To Net: NetName=KEY5 Pin=Q_KEAP80SYSVK-25
+Added Pin To Net: NetName=KEY4 Pin=Q_KEAP80SYSVK-27
+Added Pin To Net: NetName=KEY3 Pin=Q_KEAP80SYSVK-29
+Added Pin To Net: NetName=FTM_IO1 Pin=Q_KEAP80SYSVK-30
+Added Pin To Net: NetName=KEY2 Pin=Q_KEAP80SYSVK-31
+Added Pin To Net: NetName=FTM_PIN1 Pin=Q_KEAP80SYSVK-32
+Added Pin To Net: NetName=KEY1 Pin=Q_KEAP80SYSVK-33
+Added Pin To Net: NetName=5V_MCU Pin=Q_KEAP80SYSVK-37
+Added Pin To Net: NetName=A_GND Pin=Q_KEAP80SYSVK-38
+Added Pin To Net: NetName=A_GND Pin=Q_KEAP80SYSVK-39
+Added Pin To Net: NetName=ADC_CH1 Pin=Q_KEAP80SYSVK-42
+Added Pin To Net: NetName=ADC_CH2 Pin=Q_KEAP80SYSVK-43
+Added Pin To Net: NetName=ADC_CH3 Pin=Q_KEAP80SYSVK-44
+Added Pin To Net: NetName=ADC_CH4 Pin=Q_KEAP80SYSVK-45
+Added Pin To Net: NetName=PWM_CH1 Pin=Q_KEAP80SYSVK-48
+Added Pin To Net: NetName=PWM_CH2 Pin=Q_KEAP80SYSVK-49
+Added Pin To Net: NetName=PWM_CH3 Pin=Q_KEAP80SYSVK-55
+Added Pin To Net: NetName=PWM_CH4 Pin=Q_KEAP80SYSVK-56
+Added Pin To Net: NetName=FTM_PIN2 Pin=Q_KEAP80SYSVK-69
+Added Pin To Net: NetName=FTM_IO2 Pin=Q_KEAP80SYSVK-71
+Added Pin To Net: NetName=BUZZER Pin=Q_KEAP80SYSVK-72
+Added Pin To Net: NetName=A_GND Pin=Q_KEAP80SYSVK-75
+Added Pin To Net: NetName=5V_MCU Pin=Q_KEAP80SYSVK-76
+Change Net Name : Old Net Name=NetC29_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC31_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC33_1 New Net Name=NetC18_1
+Change Net Name : Old Net Name=NetC34_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC36_1 New Net Name=NetC21_1
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-1
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-2
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-12
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-13
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-20
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-34
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-35
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-36
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-40
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-41
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-57
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-63
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-64
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-66
+Added Pin To Net: NetName=XXXXXX Pin=Q_KEAP80SYSVK-67
+Added Net: Name=XXXXXX
+Added Member To Class: ClassName=SMT2 Member=Component C22 104
+Added Member To Class: ClassName=SMT2 Member=Component Q_KEAP80SYSVK LQ_KEAP80SYSVK
+Added Room: Name=SMT2

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=L_AHS Pin=P6-1
+Removed Pin From Net: NetName=L_BHS Pin=P7-1
+Removed Member From Class: ClassName=SMT2 Member=P7
+Change Component DesignItemId : Designator=P6 Old DesignItemId=POWER_PIN New DesignItemId=接线端子
+Change Component Footprint: Designator=P6 Old Footprint=POWER_PIN New Footprint=接线端子
+Change Component Comment : Designator=P6 Old Comment=POWER_PIN New Comment=接线端子
+Added Pin To Net: NetName=L_BHS Pin=P6-1
+Added Pin To Net: NetName=L_AHS Pin=P6-2

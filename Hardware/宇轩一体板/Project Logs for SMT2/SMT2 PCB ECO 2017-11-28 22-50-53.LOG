@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ADC_CH2 Pin=Q_KEAP80SYSVK-43
+Removed Pin From Net: NetName=ADC_CH3 Pin=Q_KEAP80SYSVK-44
+Removed Pin From Net: NetName=ADC_CH4 Pin=Q_KEAP80SYSVK-45
+Added Pin To Net: NetName=ADC_CH4 Pin=Q_KEAP80SYSVK-5
+Added Pin To Net: NetName=ADC_CH3 Pin=Q_KEAP80SYSVK-6
+Added Pin To Net: NetName=ADC_CH2 Pin=Q_KEAP80SYSVK-19

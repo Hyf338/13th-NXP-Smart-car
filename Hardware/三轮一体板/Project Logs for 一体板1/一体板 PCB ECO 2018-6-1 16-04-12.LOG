@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Change Component Comment : Designator=KEA1 Old Comment= New Comment=*
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC3_2
+Added Member To Class: ClassName=Ò»Με°ε1 Member=Component KEA1 *

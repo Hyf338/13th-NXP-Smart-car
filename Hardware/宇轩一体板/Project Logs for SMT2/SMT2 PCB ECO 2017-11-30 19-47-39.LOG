@@ -1,0 +1,4 @@
+Added Component: Designator=2P(2P)
+Added Pin To Net: NetName=VCC_3.3V Pin=2P-1
+Added Pin To Net: NetName=A_GND Pin=2P-2
+Added Member To Class: ClassName=SMT2 Member=Component 2P

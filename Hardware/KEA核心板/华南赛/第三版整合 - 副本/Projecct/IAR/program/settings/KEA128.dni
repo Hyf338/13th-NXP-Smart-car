@@ -1,0 +1,103 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[JLinkDriver]
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+TraceBufferSize=0x00010000
+TraceStallIfFIFOFull=0x00000000
+TracePortSize=0x00000000
+[DebugChecksum]
+Checksum=1971487174
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[InterruptLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+[Interrupts]
+Enabled=1
+[MemConfig]
+Base=1
+Manual=0
+Ddf=1
+TypeViol=0
+Stop=1
+[Simulator]
+Freq=10000000
+MultiCoreRunAll=1
+[array_types]
+Fmt0=uint8[20]	5	0
+Fmt1=uint8[2]	3	0
+Fmt2=uint8[8]	3	0
+[watch_formats]
+Fmt0={W}42:dd	3	0
+Fmt1={W}42:dsd	4	0
+Fmt2={W}42:tt	4	0
+[Trace1]
+Enabled=0
+ShowSource=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\USER\inc\Debug.h}.8.1" 0 0 1 "" 0 "" 0
+Bp1=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\USER\inc\Debug.h}.8.1" 0 0 1 "" 0 "" 0
+Bp2=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\USER\src}.188.5" 0 0 1 "" 0 "" 0
+Bp3=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\USER\src\main.c}.296.1" 0 0 1 "" 0 "" 0
+Bp4=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\..\USER\src\main.c}.296.1" 0 0 1 "" 0 "" 0
+Count=5
+[Aliases]
+A0=_ "C:\Users\asus\Desktop\全都是IAR\程序\第三版低速板\Projecct\USER\src\main.c" ""
+A1=_ "C:\Users\asus\Desktop\全都用了装IAR程序\第二版\Libraries\drives\src\KEA128_gpio.c" ""
+A2=_ "C:\Users\asus\Desktop\全都用了装IAR程序\第二版\Libraries\drives\src\KEA128_systick.c" ""
+A3=_ "C:\Users\asus\Desktop\全都用了装IAR程序\第二版\Libraries\drives\src\KEA128_uart.c" ""
+A4=_ "C:\Users\asus\Desktop\全都用了装IAR程序\第三版6.24 - 大小环\Projecct\USER\src\main.c" ""
+A5=_ "C:\Users\asus\Desktop\全都用了装IAR程序\第三版6.24 - 副本 (2)\Projecct\USER\src\main.c" ""
+A6=_ "D:\智能车\各车队程序\电磁三轮\第二版\Projecct\USER\src\Debug.c" ""
+A7=_ "D:\智能车\各车队程序\电磁三轮\第二版\Projecct\USER\src\main.c" ""
+A8=_ "D:\智能车\各车队程序\电磁三轮\第三版低速板\Projecct\USER\src\main.c" ""
+A9=_ "D:\智能车\各车队程序\电磁三轮车\三轮软件\Libraries\drives\src\KEA128_uart.c" ""
+A10=_ "D:\智能车\各车队程序\电磁三轮车\三轮软件\Libraries\startup\DeviceSupport\IAR-ARM\startup_SKEAZ1284.s" ""
+A11=_ "D:\智能车\各车队程序\电磁三轮车\三轮软件\Projecct\USER\src\main.c" ""
+Count=12
+SuppressDialog=1
