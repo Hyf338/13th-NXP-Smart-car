@@ -44,10 +44,10 @@
 
 ## 那段我们一起度过的时光
 
-![我们五个人](/Docs/Pictures/we five.jpg "我们五个人")
+![我们五个人](/Docs/Pictures/wefive.jpg "我们五个人")
 
 
-![我们三组人](/Docs/Pictures/we three.jpg "我们三组人")
+![我们三组人](/Docs/Pictures/wethree.jpg "我们三组人")
 
 
 ##### 凌晨
