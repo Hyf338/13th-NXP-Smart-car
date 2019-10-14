@@ -15,7 +15,7 @@
 
 ![福建赛区合照](/Docs/Pictures/Famliy2.jpg "福建赛区合照")
 
-![华南赛区现场](/Docs/Pictures/we are there.jpg "华南赛区现场")
+![华南赛区现场](/Docs/Pictures/we are here.jpg "华南赛区现场")
 
 ## 目录说明
 ````
