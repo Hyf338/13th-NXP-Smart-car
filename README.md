@@ -15,7 +15,7 @@
 
 ![福建赛区合照](/Docs/Pictures/Famliy2.jpg "福建赛区合照")
 
-![华南赛区现场](/Docs/Pictures/we are here.jpg "华南赛区现场")
+![华南赛区现场](/Docs/Pictures/wehere.jpg "华南赛区现场")
 
 ## 目录说明
 ````
@@ -36,10 +36,7 @@
 ## 作品展示
 
 ![整车](/Docs/Pictures/car1.jpg "整车")
-
 ![整车侧视图](/Docs/Pictures/car2.jpg "整车侧视图")
-
-
 
 
 ## 那段我们一起度过的时光
