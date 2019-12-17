@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C11 Old Footprint=ED6.3 New Footprint=ED8
+Change Component Footprint: Designator=P? Old Footprint=T型接头 New Footprint=接线端子
+Added Member To Class: ClassName=Sheet1 Member=Component C2 100uf

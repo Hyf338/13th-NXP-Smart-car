@@ -1,0 +1,54 @@
+Added Component: Designator=C1_100uf(胆电容 - duplicate)
+Added Component: Designator=C1_470PF(0805)
+Added Component: Designator=C?(CAPR5-4X5)
+Added Component: Designator=D?(DO-214  贴片二极管)
+Added Component: Designator=L?(电感8*8)
+Added Component: Designator=R1_13k(0805)
+Added Component: Designator=R2_1.5k(0805)
+Added Component: Designator=R3_180r(0805)
+Added Component: Designator=R4_.22r(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R8(0805)
+Added Component: Designator=R9(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=R11(0805)
+Added Component: Designator=R12(0805)
+Added Component: Designator=R13(0805)
+Added Component: Designator=R14(0805)
+Added Component: Designator=R15(0805)
+Added Component: Designator=U1(SO8NB)
+Added Pin To Net: NetName=12V Pin=R1_13k-1
+Added Net: Name=12V
+Added Pin To Net: NetName=AGND Pin=C1_100uf-2
+Added Pin To Net: NetName=AGND Pin=C1_470PF-2
+Added Pin To Net: NetName=AGND Pin=R2_1.5k-1
+Added Pin To Net: NetName=AGND Pin=U1-2
+Added Pin To Net: NetName=AGND Pin=U1-4
+Added Net: Name=AGND
+Added Pin To Net: NetName=NetC1_470PF_1 Pin=C1_470PF-1
+Added Pin To Net: NetName=NetC1_470PF_1 Pin=U1-3
+Added Net: Name=NetC1_470PF_1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=L?-2
+Added Pin To Net: NetName=NetD?_1 Pin=U1-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R3_180r-1
+Added Pin To Net: NetName=NetL?_1 Pin=R4_.22r-2
+Added Pin To Net: NetName=NetL?_1 Pin=U1-7
+Added Net: Name=NetL?_1
+Added Pin To Net: NetName=NetR1_13k_2 Pin=R1_13k-2
+Added Pin To Net: NetName=NetR1_13k_2 Pin=R2_1.5k-2
+Added Pin To Net: NetName=NetR1_13k_2 Pin=U1-5
+Added Net: Name=NetR1_13k_2
+Added Pin To Net: NetName=NetR3_180r_2 Pin=R3_180r-2
+Added Pin To Net: NetName=NetR3_180r_2 Pin=U1-8
+Added Net: Name=NetR3_180r_2
+Added Pin To Net: NetName=VCC Pin=C1_100uf-1
+Added Pin To Net: NetName=VCC Pin=R4_.22r-1
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

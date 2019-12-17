@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=P? Old Footprint=接线端子 New Footprint=T型接头
-Change Component Comment : Designator=C3 Old Comment=100uf New Comment=pol cap
-Change Component Comment : Designator=L1_220uH Old Comment=220uh New Comment=Inductor
-Added Component: Designator=JMU?(JMU_logo（1）)
-Added Member To Class: ClassName=Sheet1 Member=Component JMU? LOGO(JMU)
-Added Room: Name=Sheet1

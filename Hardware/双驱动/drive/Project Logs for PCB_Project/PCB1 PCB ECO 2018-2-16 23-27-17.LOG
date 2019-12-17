@@ -1,0 +1,50 @@
+Change Component Designator: OldDesignator=L? NewDesignator=L1_220uH
+Change Component Designator: OldDesignator=R5 NewDesignator=R5_20K
+Change Component Designator: OldDesignator=R6 NewDesignator=R6_0R
+Change Component Designator: OldDesignator=R7 NewDesignator=R7_0R
+Change Component Designator: OldDesignator=R8 NewDesignator=R8_10k
+Change Component Designator: OldDesignator=R9 NewDesignator=R9_10k
+Added Component: Designator=C_105(0805)
+Added Component: Designator=LED?(LED(0805))
+Added Component: Designator=P?(接线端子)
+Added Component: Designator=U?(HIP4082I)
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=12V Pin=C?-2
+Added Pin To Net: NetName=12V Pin=C_105-2
+Added Pin To Net: NetName=12V Pin=D?-2
+Added Pin To Net: NetName=VCC Pin=LED?-1
+Added Pin To Net: NetName=AGND Pin=P?-1
+Added Pin To Net: NetName=VCC Pin=P?-2
+Added Pin To Net: NetName=AGND Pin=R5_20K-2
+Added Pin To Net: NetName=AGND Pin=R6_0R-2
+Added Pin To Net: NetName=AGND Pin=R7_0R-2
+Added Pin To Net: NetName=12V Pin=U?-2
+Added Pin To Net: NetName=12V Pin=U?-7
+Change Net Name : Old Net Name=NetL?_1 New Net Name=NetL1_220uH_1
+Added Pin To Net: NetName=DGND Pin=R7_0R-1
+Added Pin To Net: NetName=DGND Pin=R8_10k-1
+Added Pin To Net: NetName=DGND Pin=R9_10k-1
+Added Pin To Net: NetName=DGND Pin=U?-6
+Added Net: Name=DGND
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=R5_20K-1
+Added Net: Name=NetLED?_2
+Added Pin To Net: NetName=NetR8_10k_2 Pin=R8_10k-2
+Added Pin To Net: NetName=NetR8_10k_2 Pin=U?-5
+Added Net: Name=NetR8_10k_2
+Added Pin To Net: NetName=NetR9_10k_2 Pin=R9_10k-2
+Added Pin To Net: NetName=NetR9_10k_2 Pin=U?-8
+Added Net: Name=NetR9_10k_2
+Added Pin To Net: NetName=PWM1 Pin=U?-3
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=U?-4
+Added Net: Name=PWM2
+Added Pin To Net: NetName=SGND Pin=C_105-1
+Added Pin To Net: NetName=SGND Pin=R6_0R-1
+Added Net: Name=SGND
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap2
+Added Member To Class: ClassName=Sheet1 Member=Component C_105 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component P? 接线端子
+Added Member To Class: ClassName=Sheet1 Member=Component U? HIP4082I
+Added Room: Name=Sheet1

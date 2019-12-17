@@ -1,5 +1,0 @@
-Change Component Comment : Designator=D2 Old Comment=二极管 New Comment=D
-Added Pin To Net: NetName=NetQ5_1 Pin=D13-1
-Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetD13_1
-Added Member To Class: ClassName=Sheet1 Member=Component D7 二极管
-Added Room: Name=Sheet1
